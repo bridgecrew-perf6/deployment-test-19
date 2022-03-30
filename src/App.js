@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React (Deloy Test)
+          Learn React
           {/* <div>BaseURL: {config.baseURL}</div> */}
         </a>
       </header>
