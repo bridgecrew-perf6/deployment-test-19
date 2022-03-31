@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React is Fun
-          {/* <div>BaseURL: {config.baseURL}</div> */}
+          <div>BaseURL: {config.baseURL}</div>
         </a>
       </header>
     </div>
