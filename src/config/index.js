@@ -8,7 +8,7 @@ switch(env.toUpperCase()){
     case "STAGE":
         config.baseURL = "https://stage.skillsunion.com"
         break;
-    case "PRODUCTION":{
+    case "DEV":{
         config.baseURL = "https://skillsunion.com"
         break;
     }
